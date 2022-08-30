@@ -1,5 +1,6 @@
-<a href="http://jameshu.me"><img src="http://readme-typing-svg.herokuapp.com?font=Aboreto&size=27&duration=3000&pause=500&color=F73189&width=435&lines=Hi+there!;I'm+James.;Welcome+to+my+page!" alt="Typing SVG" /></a>
+<a href="http://jameshu.me"><img src="http://readme-typing-svg.herokuapp.com?font=Aboreto&size=27&duration=3000&pause=500&color=F73189&vCenter=true&width=435&height=27&lines=Hi+there!;I'm+James.;Welcome+to+my+page!" alt="Typing SVG" /></a>
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/jamesishandsome/count.svg) visitor
 ----------
 
 
