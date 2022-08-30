@@ -9,9 +9,6 @@ Contributions in the last year
 
 My open-source projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamesishandsome&repo=badbad)](https://github.com/jamesishandsome/badbad)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamesishandsome&repo=git-clone-pack)](https://github.com/jamesishandsome/git-clone-pack)
 
 ```
