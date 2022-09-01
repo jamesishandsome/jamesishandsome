@@ -2,6 +2,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/jamesishandsome/count.svg) visitor
 ----------
+[![LeetCode user jamesishandsome](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjamesishandsome&logo=leetcode&logoColor=yellow)](https://leetcode.com/jamesishandsome/)
 
 
 Contributions in the last year
