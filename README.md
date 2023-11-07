@@ -10,7 +10,7 @@ Contributions in the last year
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jamesishandsome/jamesishandsome/master/assets/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/jamesishandsome/jamesishandsome/master/assets/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
