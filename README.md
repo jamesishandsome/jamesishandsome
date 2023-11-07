@@ -7,7 +7,20 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jamesishandsome/co
 
 Contributions in the last year
 
-<div align="center"><img src="https://raw.githubusercontent.com/jamesishandsome/jamesishandsome/master/assets/github-contribution-grid-snake.svg" /></div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jamesishandsome/jamesishandsome/master/assets/github-contribution-grid-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jamesishandsome/jamesishandsome/master/assets/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/jamesishandsome/jamesishandsome/master/assets/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 My open-source projects
 
