@@ -42,6 +42,15 @@
 
 ### � Engineering Portfolio
 
+#### [diff_cover_ts](https://github.com/jamesishandsome/diff_cover_ts)
+
+> **High-performance TypeScript port of the diff_cover tool**
+>
+> Automatically find lines of code in your git diff that are missing test coverage or quality checks. Designed to help maintain high code quality by focusing on what matters most: the code you just changed.
+
+![NPM Downloads](https://img.shields.io/npm/d18m/diff-cover)
+[![npm version](https://img.shields.io/npm/v/diff-cover.svg?style=flat-square)](https://www.npmjs.com/package/diff-cover)
+
 #### [deadcode-linter](https://github.com/jamesishandsome/deadcode-linter)
 
 > **Dead Code & Redundant Logic Scanner for Modern JS/TS Projects**
@@ -50,15 +59,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/jamesishandsome/deadcode-linter?style=social)](https://github.com/jamesishandsome/deadcode-linter)
 [![npm version](https://img.shields.io/npm/v/deadcode-linter.svg?style=flat-square)](https://www.npmjs.com/package/deadcode-linter)
-
-#### [diff_cover_ts](https://github.com/jamesishandsome/diff_cover_ts)
-
-> **High-performance TypeScript port of the diff_cover tool**
->
-> Automatically find lines of code in your git diff that are missing test coverage or quality checks. Designed to help maintain high code quality by focusing on what matters most: the code you just changed.
-
-[![GitHub stars](https://img.shields.io/github/stars/jamesishandsome/diff_cover_ts?style=social)](https://github.com/jamesishandsome/diff_cover_ts)
-[![npm version](https://img.shields.io/npm/v/diff-cover.svg?style=flat-square)](https://www.npmjs.com/package/diff-cover)
 
 #### [git-clone-pack](https://github.com/jamesishandsome/git-clone-pack)
 
