@@ -48,7 +48,7 @@
 >
 > Automatically find lines of code in your git diff that are missing test coverage or quality checks. Designed to help maintain high code quality by focusing on what matters most: the code you just changed.
 
-![NPM Downloads](https://img.shields.io/npm/d18m/diff-cover)
+[![NPM Downloads](https://img.shields.io/npm/d18m/diff-cover)](https://www.npmjs.com/package/diff-cover)
 [![npm version](https://img.shields.io/npm/v/diff-cover.svg?style=flat-square)](https://www.npmjs.com/package/diff-cover)
 
 #### [deadcode-linter](https://github.com/jamesishandsome/deadcode-linter)
